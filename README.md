@@ -19,7 +19,7 @@
 *   Follow the steps in `Running the Conductance Prediction Model Locally.txt` to set up dependencies.  
 *   Run the Python script to generate conductance predictions.  
 
-###📩 Download and Setup
+##   📩 Download and Setup
 *   To get started, clone the repository:
 
 ##   📧 Contact
