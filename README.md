@@ -1,5 +1,5 @@
 #   GBR_TBG
-*   **Predictive Machine Learning Model to Estimate Conductance in Twisted Bilayer Graphene (TBG)**
+*   **Predictive Machine Learning Model to Estimate Conductance of Twisted Bilayer Graphene devices presented in the article: Layer-Resolved Quantum Transport in Twisted Bilayer Graphene: Counterflow and Machine Learning Predictions.**
 
 ##   📌 Overview
 *   This script provides a predictive Machine Learning Model to Estimate Conductance of Twisted Bilayer Graphene devices presented in the article: Layer-Resolved Quantum Transport in Twisted Bilayer Graphene: Counterflow and Machine Learning Predictions. The process integrates data normalization, clustering with a Self-Organizing Map (SOM), and regression with Gradient Boosting Regressors (GBR).
