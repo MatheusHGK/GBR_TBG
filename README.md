@@ -2,7 +2,7 @@
 *   **Predictive Machine Learning Model to Estimate Conductance in Twisted Bilayer Graphene (TBG)**
 
 ##   📌 Overview
-*   This repository provides a machine learning-based framework for predicting conductance in **Twisted Bilayer Graphene (TBG)** using **Gradient Boosting Regressors (GBR)** and **Self-Organizing Maps (SOM)**. The approach significantly reduces computational costs compared to traditional simulations while maintaining high accuracy.
+*   This script provides a predictive Machine Learning Model to Estimate Conductance of Twisted Bilayer Graphene devices presented in the article: Layer-Resolved Quantum Transport in Twisted Bilayer Graphene: Counterflow and Machine Learning Predictions. The process integrates data normalization, clustering with a Self-Organizing Map (SOM), and regression with Gradient Boosting Regressors (GBR).
 
 ##   📂 Repository Structure
 *   **`GBR_Conductance_prediction.ipynb`** → Jupyter Notebook version for Google Colab  
